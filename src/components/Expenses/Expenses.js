@@ -1,5 +1,6 @@
 import ExpenseItem from './ExpenseItem.js';
 import './Expenses.css'
+import ExpenseFilter from '../ExpenseFilter/ExpenseFilter.js'
 import Card from '../UI/Card'
 
 function Expenses({items}) {
